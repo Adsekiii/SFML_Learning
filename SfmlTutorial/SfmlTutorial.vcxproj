@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dragableRects.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TextInput.cpp" />
     <ClCompile Include="WindowFocus.cpp" />
