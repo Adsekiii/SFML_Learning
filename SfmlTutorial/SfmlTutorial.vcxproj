@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dragableRects.cpp" />
+    <ClCompile Include="drawableN-gons.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="TextDisplay.cpp" />
     <ClCompile Include="TextInput.cpp" />
     <ClCompile Include="WindowFocus.cpp" />
   </ItemGroup>
